@@ -4,11 +4,10 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-public class ABC implements ITestListener{
+public class ABC2 implements ITestListener{
 
-	public ABC() {
+	public ABC2() {
 		// TODO Auto-generated constructor stub
-		System.out.println("demo");
 	}
 
 	@Override

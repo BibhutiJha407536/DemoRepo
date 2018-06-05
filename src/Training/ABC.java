@@ -8,7 +8,7 @@ public class ABC implements ITestListener{
 
 	public ABC() {
 		// TODO Auto-generated constructor stub
-		System.out.println("demo");
+		System.out.println("demo1");
 	}
 
 	@Override
